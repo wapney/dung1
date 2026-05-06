@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.box {
+    background-color: beige;
+    text-align: center;
+    width:  500px;
+    margin: 20px;
+    padding: 20px;
+    padding-bottom :10px
+    
+
+}
+.text-trichdan{
+    color: darkblue;
+    padding-bottom: 20px;
+
+}
+.text-quotes{
+    color: black;
+    padding-bottom: 20px;
+}
+.class-button{
+  padding: 10px 25px;
+  background-color: whitesmoke;
+  border: 2px solid black;
+  border-radius: 3px;
+ 
+}
+.class-button:hover{
+    background-color: green;
+    color: white;
+
+
+}
+ 
+
