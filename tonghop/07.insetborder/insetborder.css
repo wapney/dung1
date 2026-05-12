@@ -1,0 +1,22 @@
+
+
+
+p { 
+    color: white;
+    background-color: slategray;
+    font-size: 50px;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    line-height: 300px;
+    transition: 1s;
+    
+   
+
+}
+
+p:hover{
+    border: 40px solid aquamarine;
+
+
+}

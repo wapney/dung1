@@ -1,0 +1,23 @@
+
+
+div {
+    background-color: gray;
+    height: 300px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    
+
+    
+
+}
+div:active{
+    background-color: red;
+}
