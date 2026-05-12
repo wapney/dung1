@@ -1,0 +1,24 @@
+
+
+
+
+div{
+    background-color: grey;
+    height: 300px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+a{
+    color:whitesmoke;
+    font-size: 40px;
+    text-decoration: none;
+}
+div:hover{
+    background-color: blue;
+
+
+}
