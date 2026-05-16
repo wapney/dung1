@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    background-color: slategrey;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+}
+.tieude{
+    background-color: grey;
+    text-align: center;
+    padding: 100px;
+
+}
+.tieude button{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px ;
+}
+.class-feature {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 50px;
+    padding : 10px;
+    gap: 20px;
+}
+.class-feature a {
+    flex: 1;
+    background-color: skyblue;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 30px; 
+    display: block;
+    border-radius: 10px;
+          
+
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 35px;
+}
