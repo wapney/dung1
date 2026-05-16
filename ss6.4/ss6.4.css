@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 20px;
+    
+    
+}
+header h2 {
+    margin-bottom: 20px;
+}
+nav a {
+    margin: 0 15px;
+}
+
+
+.main-container{
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+.main-meun{
+    width: 25%;
+    height: 500px;
+    float: left;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid grey;
+    
+    
+
+}
+.class-list{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.main-m{
+    width: 75%;
+    height: 500px;
+    padding: 0 10px;
+    float: left;
+    padding-bottom: 20px;
+    
+}
+.main-course {
+    border-bottom: 1px solid grey;
+    padding: 10px 0;
+}
+.main-title{
+    padding-bottom: 20px;
+}
+.main-img{
+    width:400px; 
+    height:150px;
+    border: 1px solid;
+}
+.main-dsp{
+    margin-top: 10px;
+
+}
+
+
+
+.class-footer{
+    background-color: black;
+    color: white;
+    padding: 25px;
+    text-align: center;
+    margin-top: 10px;
+    
+}
